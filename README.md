@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JackOrth
  
 - 👀 I’m interested in ...
-    Meditation and Mindfulness
-    Tech and Software Development
-    Always trying to learn
+    Meditation and Mindfulness,
+    Tech and Software Development and 
+    I'm always trying to learn
     
 - 🌱 I’m currently learning ...
     HTML, CSS, JavaScript
