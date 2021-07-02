@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackOrth
+- 👋 Hi, I’m Jack Orth
  
 - 👀 I’m interested in ...
     Meditation and Mindfulness,
