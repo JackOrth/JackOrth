@@ -6,7 +6,7 @@
     I'm always trying to learn
     
 - 🌱 I’m currently learning ...
-    HTML, CSS, JavaScript
+    HTML, CSS, JavaScript, and React
     
 - 📫 How to reach me ...
     jackorth19@gmail.com
