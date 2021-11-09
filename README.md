@@ -2,11 +2,12 @@
  
 - 👀 I’m interested in ...
     Meditation and Mindfulness,
+    Exercise and Health,
     Tech and Software Development and 
     I'm always trying to learn
     
 - 🌱 I’m currently learning ...
-    HTML, CSS, JavaScript, and React
+    Full Stack Web Development
     
 - 📫 How to reach me ...
     jackorth19@gmail.com
