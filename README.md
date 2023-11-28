@@ -6,9 +6,6 @@
     - Tech and Software Development
     - I'm always trying to learn
     
-- 🌱 I’m currently learning ...
-    Full Stack Web Development
-    
 - 📫 How to reach me ...
     jackorth19@gmail.com
 
